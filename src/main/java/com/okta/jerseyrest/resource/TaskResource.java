@@ -2,8 +2,8 @@ package com.okta.jerseyrest.resource;
 
 import com.okta.jerseyrest.model.Task;
 import com.okta.jerseyrest.request.TaskRequest;
-import org.springframework.stereotype.Component;
 
+import javax.inject.Singleton;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -13,7 +13,7 @@ import java.util.Optional;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
-@Component
+@Singleton
 @Path("/tasks")
 public class TaskResource {
 
