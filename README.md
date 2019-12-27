@@ -18,7 +18,7 @@ Please read [How to Build a Secure REST Application Using Jersey](https://develo
 To install this example application, run the following commands:
 
 ```bash
-git clone https://github.com/oktadeveloper/jersey-rest.git
+git clone https://github.com/oktadeveloper/jersey-rest-example.git
 ```
 
 This will get a copy of the project locally. 
