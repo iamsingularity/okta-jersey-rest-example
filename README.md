@@ -2,7 +2,7 @@
 
 This example shows how to use Okta's Authentication API with Java.
 
-Please read [How to Build a Secure REST Application Using Jersey](https://developer.okta.com/blog/) for a tutorial that shows you how to build this application.
+Please read [How to Build a Secure REST Application Using Jersey](https://developer.okta.com/blog/2019/12/30/java-jersey-jaxrs) for a tutorial that shows you how to build this application.
 
 **Prerequisites:** [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
